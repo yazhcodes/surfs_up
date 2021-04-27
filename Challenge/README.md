@@ -9,3 +9,7 @@ There is a bulleted list that addresses the three key differences in weather bet
 # SUMMARY
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
+<img src="https://github.com/yazhcodes/surfs_up/blob/main/Resources/Images/Dec_Station_Avgs.png"></img>
+<img src="https://github.com/yazhcodes/surfs_up/blob/main/Resources/Images/Dec_Temp_Prcp.png"></img>
+<img src="https://github.com/yazhcodes/surfs_up/blob/main/Resources/Images/Jun_Station_Avgs.png"></img>
+<img src="https://github.com/yazhcodes/surfs_up/blob/main/Resources/Images/Jun_Temp_Prcp.png"></img>
