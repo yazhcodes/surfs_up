@@ -2,6 +2,10 @@
 
 This project is about analyzing Oahu's annual temperature and precipitation data, sourced from nine weather stations, to determine whether it has ideal weather conditions to support a Surf and Icecream Shop business. This Challenge in particular is a deep dive into the June and December statistics, to test Oahu's year round sustainability.
 
+<p align='center'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Hanauma_Bay_Panoramic_View.JPG/1800px-Hanauma_Bay_Panoramic_View.JPG"></img>
+</p>
+
 # RESULTS
 
 * There are **1700 recordings** available for June month which is _11% more_ than Decemeber's data. So we begin the analysis with an understanding that it IS possible June's stats could be a bit more accurate than December's.
