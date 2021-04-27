@@ -4,7 +4,10 @@ This project is about analyzing Oahu's annual temperature and precipitation data
 
 # RESULTS
 
-There is a bulleted list that addresses the three key differences in weather between June and December.
+* There are 1700 recordings available for June month which is 11% more than Decemeber's data. So we begin the analysis with an understanding that it IS possible June's stats could be a bit more accurate than December's.
+* The average temperature of June and December is recorded as 74.9° and 71.04° respectively. December being colder than June does not come as a surprise. And it also reassures us that our analysis is infact going on the right track.
+* The standard deviation of December is 3.74 which is slightly higher than June's standard deviation of 3.25. It's no biggie though!
+* The minimum temperatures of June and December are far apart at 64° and 56°, however the maximum recorded temperatures turned out much closer than we anticipated at 85° and 83° respectively.
 
 <p align='center'>
   <img src="https://github.com/yazhcodes/surfs_up/blob/main/Resources/Images/Jun_Temp.png" width="160" height="300"></img>
