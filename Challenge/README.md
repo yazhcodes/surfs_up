@@ -18,7 +18,7 @@ This project is about analyzing Oahu's annual temperature and precipitation data
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
 
-* The outcome of Temperature analysis is quite reassuring to our client who is nervous and excited to open up his Surf and Icecream shop in Oahu. However, our report would be half cooked if we solely relied on temperature and did not include more parameters that are readily available to us. Let's take a deeper dive.
+* The _**outcome of Temperature analysis is quite reassuring**_ to our client who is nervous and excited to open up his Surf and Icecream shop in Oahu. However, our report would be half cooked if we solely relied on temperature and did not include more parameters that are readily available to us. Let's take a deeper dive.
 * **Additional Analysis 1:** Including Precipitation
   *  The average recorded precipitation for June and December is 0.13 and 0.21 respectively and 75% of the data fall below 0.12 and 0.15. Although the maximum precipitation is 4.43 and 6.42, we may rest assured that the rainy days are rare in Oahu and it would not be a major deal breaker!
 
